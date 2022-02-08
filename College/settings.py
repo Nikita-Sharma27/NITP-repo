@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-rpgq^&fau-uwv*(mrkg$ekxs$cn+gnn8#*s1kpcoukk@!7r)x$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [127.0.0.1]
+ALLOWED_HOSTS = ['127.0.0.1' , 'college-search-website.herokuapp.com']
 
 
 # Application definition
